@@ -1,4 +1,4 @@
-# OpenCV demo
+# Ulam Spiral in Python
 
 ## What it can do
 The program generates the Ulam spiral according to the user's requirements. It is possible to display direction lines, prime numbers only, or save the spiral to a text file.
